@@ -1,0 +1,17 @@
+export const frameworks = [
+  { framework: "angular2", id: 1 },
+  { framework: "vue", id: 2 },
+  { framework: "react", id: 3 },
+  { framework: "grunt", id: 4 },
+  { framework: "phantomjs", id: 5 },
+  { framework: "ember", id: 6 },
+  { framework: "babel", id: 7 },
+  { framework: "ionic", id: 8 },
+  { framework: "gulp", id: 9 },
+  { framework: "meteor", id: 10 },
+  { framework: "yeoman", id: 11 },
+  { framework: "yarn", id: 12 },
+  { framework: "nodejs", id: 13 },
+  { framework: "bower", id: 14 },
+  { framework: "browserify", id: 15 },
+];
